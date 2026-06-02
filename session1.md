@@ -1,5 +1,4 @@
-# DSA_tutorials
-session 1 notes
+# DSA NOTES
 ## keyboard shortcuts
 
 Windows+x for seeing the system info
