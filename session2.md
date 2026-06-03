@@ -1,4 +1,5 @@
-# google Google produtivity AI and platform orientation
+#Session 2
+# Google produtivity AI and platform orientation
 Data science-
 Ignaz semmelweis
 Applications (marketing,insurance,selling prices)
